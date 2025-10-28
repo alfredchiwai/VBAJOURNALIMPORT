@@ -24,4 +24,5 @@
 
 <img width="2513" height="599" alt="螢幕擷取畫面 2025-10-28 125908" src="https://github.com/user-attachments/assets/17ae87a8-588f-4818-b401-e2e1880c4b81" />
 
-## Just a click away to turn it automatically!
+## With VBA Automation, Just a click away to turn it automatically!
+[Please click to see the effects: https://youtu.be/JOgH-5jpioI](https://youtu.be/JOgH-5jpioI)
