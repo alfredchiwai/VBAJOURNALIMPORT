@@ -5,5 +5,9 @@
 <img width="2529" height="166" alt="螢幕擷取畫面 2025-10-28 125723" src="https://github.com/user-attachments/assets/d71e62b2-9fbd-409f-8a85-9494a197d1d3" />
 
 ### Without automation, require tons of manual steps:
-<img width="1857" height="546" alt="image" src="https://github.com/user-attachments/assets/878bcb5d-4ede-429c-9dae-6d1cdcca19e0" />
+<img width="2541" height="545" alt="螢幕擷取畫面 2025-10-28 125824" src="https://github.com/user-attachments/assets/874c8ade-df7e-48a8-af55-692479d416c6" />
+
+<img width="2479" height="902" alt="螢幕擷取畫面 2025-10-28 125847" src="https://github.com/user-attachments/assets/19a49f6c-e864-4f2e-b5bc-4f58b6c71531" />
+
+<img width="2513" height="599" alt="螢幕擷取畫面 2025-10-28 125908" src="https://github.com/user-attachments/assets/17ae87a8-588f-4818-b401-e2e1880c4b81" />
 
