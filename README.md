@@ -9,8 +9,8 @@
 ### -Automated handling of Square Sales Report's csv file turning into required MYOB entries
 ### -As per Square Sales Report details, automatically dividing the sales into Current Month Revenue and Deferred Revenue and adding entries for them
 
-
-<img width="2055" height="1038" alt="螢幕擷取畫面 2025-10-28 125559" src="https://github.com/user-attachments/assets/d9eb31fe-7a7c-4016-a2c2-8730da77cf74" />
+## Benefits:
+<img width="2072" height="673" alt="image" src="https://github.com/user-attachments/assets/16e007c0-4df9-4fcd-bb1b-c190f045c99e" />
 
 ## As-Is: Without automation, it requires tons of manual steps:
 
