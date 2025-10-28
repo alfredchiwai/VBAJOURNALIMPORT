@@ -1,13 +1,13 @@
 
 ## Background:
--A course-providing company which is using Square, a Retail POS system not directly integrated to MYOB.
--Their course income may include both Current Month Revenue and Deferred Revenue, which are required to booked in the correct financial year.
--Landlords require reporting monthly income for each shop, which necessitate monthly revenue to be booked in the correct month
--Tons of manual works to turn Square Sales Report's csv file into the format with suitable details as per MYOB requirements & the Accounting Principle
+### -A course-providing company which is using Square, a Retail POS system not directly integrated to MYOB.
+### -Their course income may include both Current Month Revenue and Deferred Revenue, which are required to booked in the correct financial year.
+### -Landlords require reporting monthly income for each shop, which necessitate monthly revenue to be booked in the correct month
+### -Tons of manual works to turn Square Sales Report's csv file into the format with suitable details as per MYOB requirements & the Accounting Principle
 
-Purpose: 
--Automated handling of Square Sales Report's csv file turning into required MYOB entries
--As per Square Sales Report details, automatically dividing the sales into Current Month Revenue and Deferred Revenue and adding entries for them
+## Purpose: 
+### -Automated handling of Square Sales Report's csv file turning into required MYOB entries
+### -As per Square Sales Report details, automatically dividing the sales into Current Month Revenue and Deferred Revenue and adding entries for them
 
 
 <img width="2055" height="1038" alt="螢幕擷取畫面 2025-10-28 125559" src="https://github.com/user-attachments/assets/d9eb31fe-7a7c-4016-a2c2-8730da77cf74" />
