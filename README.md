@@ -3,7 +3,7 @@
 
 ### As-Is: Without automation, it requires tons of manual steps:
 
-### Square POS Sales Report
+## Square POS Sales Report
 <img width="2529" height="166" alt="螢幕擷取畫面 2025-10-28 125723" src="https://github.com/user-attachments/assets/d71e62b2-9fbd-409f-8a85-9494a197d1d3" />
 
 ### Manual Steps
